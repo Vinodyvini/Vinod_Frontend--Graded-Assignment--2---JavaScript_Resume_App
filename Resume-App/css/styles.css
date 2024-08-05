@@ -1,0 +1,132 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f0f0f0;
+	margin: 0;
+	padding: 0;
+}
+
+.login-container {
+	max-width: 100%; /* Use a percentage for maximum width */
+	width: 400px; /* Set a base width */
+	margin: 50px auto; /* Center the container */
+	padding: 20px;
+	background: #ffeb3b; /* Yellow background for the container */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	border-radius: 8px; /* Optional: Rounded corners */
+}
+
+input[type="text"], input[type="password"] {
+	width: 90%;
+	padding: 10px;
+	margin: 10px 0;
+}
+
+button {
+	display: block; /* Make the button a block element */
+	background-color: #4caf50; /* Set the background color */
+	color: white; /* White text color */
+	padding: 10px 20px; /* Padding for the button */
+	border: none; /* No border */
+	border-radius: 4px; /* Rounded corners */
+	cursor: pointer; /* Pointer cursor on hover */
+	font-size: 16px; /* Font size */
+	margin: 10px auto; /* Center the button horizontally */
+	text-align:center;
+}
+
+#resume-details {
+	margin-bottom: 20px;
+}
+
+.custom-toast {
+	position: absolute !important;
+	top: auto !important;
+	bottom: auto !important;
+	left: 50%; /* Center the toast horizontally */
+	width: 340px; /* Default width */
+	height: auto; /* Auto height to fit content */
+	max-width: 90%; /* Maximum width of 90% */
+	text-align: center;
+	padding: 20px; /* Adjust padding for better responsiveness */
+	transform: translateX(-50%) !important; /* Center it with translate */
+	margin-top: 150px; /* Distance from the top */
+	margin-bottom: 20px; /* Distance from the bottom */
+	z-index: 9999;
+	background-color: #ff6b6b; /* Background color for toast */
+	border-radius: 5px; /* Rounded corners */
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+	.custom-toast {
+		width: 80%; /* Width of 80% on smaller screens */
+		margin-top: 100px; /* Adjust margin for smaller screens */
+		padding: 15px; /* Adjust padding for smaller screens */
+	}
+}
+
+@media (max-width: 480px) {
+	.custom-toast {
+		width: 90%; /* Width of 90% on very small screens */
+		margin-top: 80px; /* Further adjust margin for very small screens */
+		padding: 10px; /* Adjust padding for very small screens */
+	}
+}
+
+.resume-header {
+	background-color: skyblue;
+	padding: 10px;
+	border-radius: 5px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+	.resume-header h3 {
+		margin: 0;
+		font-size: 24px;
+	}
+
+	.resume-header p {
+		margin: 0;
+		font-size: 16px;
+	}
+
+.resume-container {
+	display: flex;
+	margin: 0; /* Remove margin to ensure alignment with header */
+}
+
+.left-column {
+	flex: 1; /* Ratio 1:4 with the right column */
+	background-color: #f0f8ff; /* Light background color */
+	padding: 15px;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	margin-right: 15px; /* Added margin to separate left and right columns */
+}
+
+.right-column {
+	flex: 4; /* Ratio 4:1 with the left column */
+	padding: 15px;
+}
+
+.section {
+	margin-bottom: 15px;
+}
+
+	.section h4 {
+		background-color: skyblue;
+		padding: 10px;
+		border-radius: 5px;
+		margin: 0;
+	}
+	h4 {
+		background-color: skyblue;
+	}
+p {
+	font-size: 12px
+}
+
+		.section p {
+		margin: 5px 0;
+	}

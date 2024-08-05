@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\data\\resumes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resume-App\\data\\resumes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resume-App\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\css\\styles.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resume-App\\css\\styles.css||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\resume.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resume-App\\resume.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resume-App\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resume-App\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\Data (1).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\css\\styles.css",
+              "RelativeDocumentMoniker": "Resume-App\\css\\styles.css",
+              "ToolTip": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\css\\styles.css",
+              "RelativeToolTip": "Resume-App\\css\\styles.css",
+              "ViewState": "AQIAADMAAAAAAAAAAAAwwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T13:44:52.346Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "resumes.json",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\data\\resumes.json",
+              "RelativeDocumentMoniker": "Resume-App\\data\\resumes.json",
+              "ToolTip": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\data\\resumes.json",
+              "RelativeToolTip": "Resume-App\\data\\resumes.json",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T14:42:27.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "resume.html",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\resume.html",
+              "RelativeDocumentMoniker": "Resume-App\\resume.html",
+              "ToolTip": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\resume.html",
+              "RelativeToolTip": "Resume-App\\resume.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-04T14:13:29.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scripts.js",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\js\\scripts.js",
+              "RelativeDocumentMoniker": "Resume-App\\js\\scripts.js",
+              "ToolTip": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\js\\scripts.js",
+              "RelativeToolTip": "Resume-App\\js\\scripts.js",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAswI4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-04T14:08:30.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\index.html",
+              "RelativeDocumentMoniker": "Resume-App\\index.html",
+              "ToolTip": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\index.html",
+              "RelativeToolTip": "Resume-App\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-04T13:43:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.html",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\login.html",
+              "RelativeDocumentMoniker": "Resume-App\\login.html",
+              "ToolTip": "D:\\GreatLearning_Module\\Javascript\\Frontend- Graded Assignment -2 - JavaScript\\Resume-App\\login.html",
+              "RelativeToolTip": "Resume-App\\login.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-04T14:38:24.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data (1).json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Data (1).json",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Data (1).json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADACAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T14:15:21.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
